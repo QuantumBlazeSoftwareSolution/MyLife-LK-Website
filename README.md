@@ -1,29 +1,30 @@
-# Welcome to your Lovable project
+# MyLife LK — Official Website
 
-This project was built with [Lovable](https://lovable.dev).
+Official marketing and privacy website for **MyLife LK: A Personal Life Operating System for Sri Lanka**, developed by **Quantum Blaze**.
 
-## Build with Lovable
+## Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Built with Modern Web Standards**: TanStack Start, React 19, TypeScript, Vite, Tailwind CSS.
+- **Lightning Fast**: Full Server-Side Rendering (SSR) & static optimization.
+- **Privacy & Security Focused**: Detailed privacy policy, offline-first principles.
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+```bash
+# Install dependencies
+npm install
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+# Run local development server
 npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
 
-## Built with
+## License & Copyright
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+© 2026 Quantum Blaze. All rights reserved.  
+Contact: [contact@quantumblaze.lk](mailto:contact@quantumblaze.lk)
